@@ -45,8 +45,3 @@ This project is licensed under the **BSD-3-Clause License**.
 ### **How to Cite**
 If you use **ML-Based IC Verification** in your work, please cite this repository and include a reference to this project in your publication.
 
----
-
-🚀 **Now, this README makes it look like your own project while keeping the relevant technical details!**  
-
-Let me know if you need help modifying it further. 😊
